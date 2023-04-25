@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Web Developer and Electronic Engineer  
 
-- 👨🏾‍💻 I’m currently working on web development technologies like React, Next Node.js.
+- 👨🏾‍💻 I’m currently working on web development technologies like React, Next.js, Node.js.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏾 Future Goals: Learn more technologies - Create new projects.
 - 💭 Fun fact: I love working out, cooking different recipes and watching old western movies 📽.
