@@ -10,6 +10,8 @@
 - 💪🏾 Future Goals: Learn more technologies - Create new projects.
 - 💭 Fun fact: I love working out, cooking different recipes and watching old western movies 📽.
 
+You can know more about me here: https://edgardnavarro.com/
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
